@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # About Me
 
-👋 Hey there, I'm Logesh, a B.Tech Information Technology student at Kongu Engineering College. I'm passionate about technology and excited to connect, collaborate, and learn.
+👋 Hey there, I'm Logesh, a B.Tech Information Technology student. I'm passionate about technology and excited to connect, collaborate, and learn.
 
 ## Skills and Technologies
 
